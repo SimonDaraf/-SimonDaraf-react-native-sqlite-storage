@@ -1,3 +1,6 @@
+# NOTE
+This is a fork of the original package that simply changes the buildscript to reference mavenCentral instead of jcenter.
+
 # react-native-sqlite-storage
 SQLite3 Native Plugin for React Native for both Android (Classic and Native), iOS and Windows
 
